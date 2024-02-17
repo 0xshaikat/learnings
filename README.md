@@ -1,8 +1,8 @@
-# 🚀 Learnings
+# 🧠 Learnings
 
 ## 📖 Overview
 I'm currently trying to learn (hopefully successfully):
-- 📖  Mathematics for Machine Learning
+- 🧮 Mathematics for Machine Learning
 - 🌐 System Design
 - 💸 Smart Contract Programming
 
